@@ -1,6 +1,6 @@
-<h1 align="center">Web Skills</h1>
+<h1 align="center">Ernest's Skill Tree</h1>
 <p align="center">
-	Web Skills is a visual overview of useful skills to learn as a web developer. Go to <a href="https://andreasbm.github.io/web-skills" target="_blank" aria-label="Link to Web Skills">https://andreasbm.github.io/web-skills</a> to check out the visual overview or scroll through this readme to get the overview <a href="#-fundamentals" target="_blank" aria-label="Link to list of skills">as a list</a>. If you like the project you are very welcome to <a href="https://github.com/andreasbm/web-skills/stargazers" aria-label="Become stargazer link">become a stargazer 🤩</a>
+	Ernest is currently working as Assosiate Regional Marketing Manager at <a href="https://www.beckmancoulter.com/">Beckman Coulter</a>, a member of <a href="https://www.danaher.com/">Danaher Group</a>, where He work on innovative MKT activities and strategic project execution. He got Master's degree under the joint training of <a href="https://www.med.tsinghua.edu.cn/">School of Medicine</a>, and <a href="https://www.cs.tsinghua.edu.cn/">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He did my Bachelor at  <a href="https://mse.bit.edu.cn/index.htm">School of Material Science and Engineering</a>, <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a></a>
 </p> 
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
@@ -11,10 +11,400 @@
 <details>
 <summary>📖 Table of Contents</summary>
 <br />
-{{ template:toc }}
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
+
+## ➤ Table of Contents
+
+* [➤ FAQ](#-faq)
+	* [What is Web Skills?](#what-is-web-skills)
+	* [How did you choose the skills?](#how-did-you-choose-the-skills)
+	* [How can I support you?](#how-can-i-support-you)
+	* [How can I get involved?](#how-can-i-get-involved)
+	* [How can I keep track of what skills I know?](#how-can-i-keep-track-of-what-skills-i-know)
+	* [I am overwhelmed! Help me!](#i-am-overwhelmed-help-me)
+	* [Why haven't you included XYZ Technology?](#why-havent-you-included-xyz-technology)
+	* [What does the "experimental" banner mean?](#what-does-the-experimental-banner-mean)
+	* [How can I get in contact with you?](#how-can-i-get-in-contact-with-you)
+* [➤ Fundamentals](#-fundamentals)
+	* [HTML](#html)
+	* [Syntax](#syntax)
+		* [Basic Tags](#basic-tags)
+	* [Forms](#forms)
+	* [SEO](#seo)
+		* [Discoverable Content](#discoverable-content)
+	* [Svg](#svg)
+	* [Best Practices](#best-practices)
+	* [CSS](#css)
+	* [Syntax](#syntax-1)
+	* [Selectors](#selectors)
+		* [Specificity](#specificity)
+		* [Pseudo Selectors](#pseudo-selectors)
+	* [Box Model](#box-model)
+		* [Margin Collapsing](#margin-collapsing)
+	* [Colors](#colors)
+	* [Calc](#calc)
+	* [Layout](#layout)
+		* [Flex](#flex)
+		* [Grid](#grid)
+	* [Transforms](#transforms)
+		* [Animations](#animations)
+	* [Responsive Design](#responsive-design)
+		* [Media Queries](#media-queries)
+		* [Relative Units](#relative-units)
+		* [Images](#images)
+	* [CSS Variables](#css-variables)
+	* [Best Practices](#best-practices-1)
+	* [Javascript](#javascript)
+	* [Syntax](#syntax-2)
+		* [Spread](#spread)
+		* [Destructuring](#destructuring)
+	* [DOM](#dom)
+		* [DOM Manipulation](#dom-manipulation)
+	* [Events](#events)
+	* [Objects](#objects)
+		* [Prototype](#prototype)
+			* [Classes](#classes)
+	* [Regex](#regex)
+	* [Template Literals](#template-literals)
+	* [Promises](#promises)
+		* [Callbacks](#callbacks)
+		* [Async/await](#asyncawait)
+		* [Fetch](#fetch)
+	* [Web Animations](#web-animations)
+	* [Modules](#modules)
+	* [Intl](#intl)
+	* [Canvas](#canvas)
+	* [Documentation](#documentation)
+	* [Best Practices](#best-practices-2)
+	* [The Browser](#the-browser)
+	* [Standardization](#standardization)
+		* [W3C](#w3c)
+		* [TC39](#tc39)
+		* [WHATWG](#whatwg)
+		* [Specifications](#specifications)
+	* [Browser Engines](#browser-engines)
+		* [Webkit](#webkit)
+		* [Blink](#blink)
+		* [Gecko](#gecko)
+	* [HTTP](#http)
+	* [The Internet](#the-internet)
+	* [Polyfills](#polyfills)
+	* [Debugging](#debugging)
+		* [Developer console](#developer-console)
+* [➤ Accessibility](#-accessibility)
+	* [The why](#the-why)
+	* [Screen Readers](#screen-readers)
+	* [Accessibility tree](#accessibility-tree)
+		* [ARIA](#aria)
+		* [Accessible HTML](#accessible-html)
+			* [Alt text](#alt-text)
+		* [Accessible CSS](#accessible-css)
+	* [Accessible forms](#accessible-forms)
+	* [UI States](#ui-states)
+	* [Keyboard Accessibility](#keyboard-accessibility)
+		* [Focus](#focus)
+	* [Accessible Colors](#accessible-colors)
+	* [Laws & Policies](#laws--policies)
+		* [Audits](#audits)
+* [➤ Web Components](#-web-components)
+	* [Custom Elements](#custom-elements)
+	* [HTML Templates](#html-templates)
+	* [Shadow DOM](#shadow-dom)
+		* [Shadow Parts](#shadow-parts)
+		* [Slots](#slots)
+	* [Best practices](#best-practices)
+	* [Constructible Stylesheets](#constructible-stylesheets)
+	* [Form Participation](#form-participation)
+* [➤ Progressive Webapps](#-progressive-webapps)
+	* [API's](#apis)
+	* [Storage](#storage)
+	* [Routing](#routing)
+		* [History API](#history-api)
+	* [Service Workers](#service-workers)
+		* [Offline first](#offline-first)
+		* [Push notifications](#push-notifications)
+	* [Web App manifest](#web-app-manifest)
+	* [Add to homescreen](#add-to-homescreen)
+	* [Pointer Events](#pointer-events)
+	* [Loading Performance](#loading-performance)
+	* [App shell](#app-shell)
+	* [Render-Blocking Resources](#render-blocking-resources)
+	* [Compression](#compression)
+	* [Performance metrics](#performance-metrics)
+		* [Largest Contentful Paint](#largest-contentful-paint)
+		* [Total Blocking Time](#total-blocking-time)
+		* [Time to Interactive](#time-to-interactive)
+	* [Lazy Loading](#lazy-loading)
+		* [Dynamic Import](#dynamic-import)
+		* [Offscreen images](#offscreen-images)
+	* [Critical Request Chains](#critical-request-chains)
+	* [Tree shaking](#tree-shaking)
+	* [Codesplitting](#codesplitting)
+	* [PRPL Pattern](#prpl-pattern)
+	* [Resource Prioritization](#resource-prioritization)
+	* [Caching](#caching)
+	* [Rendering Performance](#rendering-performance)
+	* [Rendering](#rendering)
+	* [Event loop](#event-loop)
+		* [Microtask](#microtask)
+		* [Stack](#stack)
+		* [Heap](#heap)
+	* [RAIL Model](#rail-model)
+		* [requestAnimationFrame](#requestanimationframe)
+		* [requestIdleCallback](#requestidlecallback)
+	* [Critical Rendering Path](#critical-rendering-path)
+	* [The Pixel Pipeline](#the-pixel-pipeline)
+		* [Style calculations](#style-calculations)
+		* [Transforms](#transforms-1)
+		* [Paint areas](#paint-areas)
+		* [Layout Trashing](#layout-trashing)
+		* [Layers](#layers)
+		* [Debounce](#debounce)
+	* [CSS Containment](#css-containment)
+	* [Web Workers](#web-workers)
+	* [Security](#security)
+	* [HTTPS](#https)
+	* [Browser Sandbox](#browser-sandbox)
+	* [OWASP](#owasp)
+		* [Cross-Site Scripting](#cross-site-scripting)
+		* [Clickjacking](#clickjacking)
+	* [Content Security Policy](#content-security-policy)
+	* [Audits](#audits-1)
+	* [Performance budgets](#performance-budgets)
+	* [Lighthouse](#lighthouse)
+	* [Chrome DevTools](#chrome-devtools)
+* [➤ Build tools](#-build-tools)
+	* [Package Managers](#package-managers)
+		* [NPM](#npm)
+		* [Yarn](#yarn)
+	* [Module Bundlers](#module-bundlers)
+		* [Rollup](#rollup)
+		* [Webpack](#webpack)
+		* [Parcel](#parcel)
+		* [Snowpack](#snowpack)
+	* [Linters and formatters](#linters-and-formatters)
+		* [Prettier](#prettier)
+		* [ESLint](#eslint)
+	* [Task Runners](#task-runners)
+		* [NPM Scripts](#npm-scripts)
+	* [Transpilers](#transpilers)
+		* [Babel](#babel)
+		* [Typescript](#typescript)
+	* [CSS Pre-processors](#css-pre-processors)
+		* [SASS](#sass)
+		* [PostCSS](#postcss)
+	* [Node.js](#nodejs)
+* [➤ Frameworks & Libraries](#-frameworks--libraries)
+	* [lit-element](#lit-element)
+	* [Vue](#vue)
+	* [React](#react)
+	* [Angular](#angular)
+	* [Svelte](#svelte)
+	* [Stencil](#stencil)
+* [➤ Testing](#-testing)
+	* [Testing Methodologies](#testing-methodologies)
+		* [Unit Testing](#unit-testing)
+		* [Integration Testing](#integration-testing)
+		* [System Testing](#system-testing)
+		* [Acceptance Testing](#acceptance-testing)
+		* [Smoke Testing](#smoke-testing)
+		* [Performance Testing](#performance-testing)
+		* [Usability Testing](#usability-testing)
+		* [White Box Testing](#white-box-testing)
+		* [Black Box Testing](#black-box-testing)
+		* [Automated Testing](#automated-testing)
+		* [Manual Testing](#manual-testing)
+	* [Continuous integration](#continuous-integration)
+	* [A/B Testing](#ab-testing)
+	* [Test Runners](#test-runners)
+		* [Karma](#karma)
+		* [Mocha](#mocha)
+		* [Jasmine](#jasmine)
+		* [Cypress](#cypress)
+		* [Ava](#ava)
+	* [Best Practices](#best-practices-3)
+* [➤ Architecture & paradigms](#-architecture--paradigms)
+	* [Paradigms](#paradigms)
+	* [Programming Paradigms](#programming-paradigms)
+	* [Object Oriented Programming](#object-oriented-programming)
+		* [S.O.L.I.D](#solid)
+	* [Functional programming](#functional-programming)
+		* [Recursion](#recursion)
+		* [Higher-Order Functions](#higher-order-functions)
+		* [Currying](#currying)
+		* [Monads](#monads)
+	* [Architecture](#architecture)
+	* [Design Patterns](#design-patterns)
+		* [Singleton](#singleton)
+		* [Observer](#observer)
+		* [Prototype](#prototype-1)
+		* [Bridge](#bridge)
+		* [Proxy](#proxy)
+		* [Chain of responsibility](#chain-of-responsibility)
+		* [Constructor](#constructor)
+	* [CSS Methodologies](#css-methodologies)
+		* [BEM](#bem)
+		* [SMACSS](#smacss)
+		* [OOCSS](#oocss)
+* [➤ Team Collaboration](#-team-collaboration)
+	* [Version Control](#version-control)
+	* [Git](#git)
+		* [Github](#github)
+		* [Bitbucket](#bitbucket)
+	* [Management](#management)
+	* [Agile Development](#agile-development)
+		* [Scrum](#scrum)
+		* [Kanban](#kanban)
+	* [Waterfall Development](#waterfall-development)
+	* [Test Driven Development](#test-driven-development)
+* [➤ Design & UX](#-design--ux)
+	* [Color Theory](#color-theory)
+		* [Color Wheel](#color-wheel)
+	* [Typography](#typography)
+		* [Font Size](#font-size)
+		* [Line Spacing](#line-spacing)
+	* [C.R.A.P](#crap)
+		* [Contrast](#contrast)
+		* [Repetition](#repetition)
+		* [Alignment](#alignment)
+		* [Proximity](#proximity)
+	* [Consistency](#consistency)
+	* [Spacing](#spacing)
+	* [Error Handling](#error-handling)
+	* [Loading](#loading)
+	* [The Golden Ratio](#the-golden-ratio)
+	* [Mobile First](#mobile-first)
+		* [Hit Targets](#hit-targets)
+	* [Design Systems](#design-systems)
+		* [Material Design](#material-design)
+		* [Fluent Design](#fluent-design)
+	* [Accessibility](#accessibility)
+	* [Best Practices](#best-practices-4)
+* [➤ The Modern Web](#-the-modern-web)
+	* [Streams](#streams)
+		* [Media Streams](#media-streams)
+		* [Media Recorder](#media-recorder)
+		* [Web RTC](#web-rtc)
+		* [Screen Capture](#screen-capture)
+		* [Generators](#generators)
+	* [Speech Synthesis](#speech-synthesis)
+	* [Web Sockets](#web-sockets)
+	* [Geolocation](#geolocation)
+	* [Device orientation & motion](#device-orientation--motion)
+	* [Fullscreen](#fullscreen)
+	* [Variable Fonts](#variable-fonts)
+	* [HTTP/2](#http2)
+	* [Payment Request API](#payment-request-api)
+	* [Web Audio](#web-audio)
+	* [Observers](#observers)
+		* [Mutation Observer](#mutation-observer)
+		* [Intersection Observer](#intersection-observer)
+		* [Resize Observer](#resize-observer)
+		* [Performance Observer](#performance-observer)
+	* [Scrollsnapping](#scrollsnapping)
+	* [Web Assembly](#web-assembly)
+	* [Beacon](#beacon)
+	* [Clipboard](#clipboard)
+	* [Share](#share)
+	* [Performance API](#performance-api)
+	* [Gamepad API](#gamepad-api)
+	* [Speech Recognition](#speech-recognition)
+	* [Interaction Media Queries](#interaction-media-queries)
+	* [Browser Extensions](#browser-extensions)
+	* [Pointer Lock API](#pointer-lock-api)
+	* [Picture In Picture](#picture-in-picture)
+	* [Proxies](#proxies)
+	* [Houdini](#houdini)
+	* [Project Fugu](#project-fugu)
+	* [Web Authentication API](#web-authentication-api)
+		* [Credentials Manager API](#credentials-manager-api)
+	* [Native File System](#native-file-system)
+	* [Shape Detection](#shape-detection)
+	* [Web Bluetooth](#web-bluetooth)
+	* [Web USB](#web-usb)
+	* [Web XR](#web-xr)
+	* [Presentation](#presentation)
+	* [Network Information API](#network-information-api)
+* [➤ Algorithms & Data structures](#-algorithms--data-structures)
+	* [Data structures](#data-structures)
+	* [Arrays](#arrays)
+	* [Queues & Stacks](#queues--stacks)
+	* [Trees](#trees)
+		* [Binary Indexed Tree](#binary-indexed-tree)
+		* [Heap](#heap-1)
+		* [Red-black Tree](#red-black-tree)
+		* [Trie](#trie)
+		* [K-D Tree](#k-d-tree)
+	* [Hash Tables](#hash-tables)
+	* [Linked Lists](#linked-lists)
+	* [Graphs](#graphs)
+	* [Analysis](#analysis)
+	* [Time complexity](#time-complexity)
+		* [Cost model](#cost-model)
+		* [Order of Growth](#order-of-growth)
+		* [Big O notation](#big-o-notation)
+	* [Space Complexity](#space-complexity)
+	* [Algorithms](#algorithms)
+	* [Sorting](#sorting)
+		* [Insertion Sort](#insertion-sort)
+		* [Quicksort](#quicksort)
+		* [Mergesort](#mergesort)
+		* [Heapsort](#heapsort)
+	* [Searching](#searching)
+		* [Binary Search](#binary-search)
+		* [Breadth First Search](#breadth-first-search)
+		* [Depth First Search](#depth-first-search)
+		* [Dijkstra's Algorithm](#dijkstras-algorithm)
+		* [String Search](#string-search)
+	* [Hashing](#hashing)
+* [➤ Databases & Servers](#-databases--servers)
+	* [Databases](#databases)
+	* [Relational Databases](#relational-databases)
+		* [SQL](#sql)
+		* [MySQL](#mysql)
+		* [PostgreSQL](#postgresql)
+	* [Non-relational Databases](#non-relational-databases)
+		* [Redis](#redis)
+		* [MongoDB](#mongodb)
+	* [Data Modelling](#data-modelling)
+		* [ER Diagram](#er-diagram)
+		* [Keys](#keys)
+	* [Indexing](#indexing)
+	* [Data Integrity](#data-integrity)
+	* [Normalization](#normalization)
+		* [Functional Dependencies](#functional-dependencies)
+		* [Normal Forms](#normal-forms)
+	* [Transactions](#transactions)
+		* [ACID](#acid)
+		* [Serializability](#serializability)
+		* [Locks](#locks)
+			* [Deadlocks](#deadlocks)
+		* [Precedence graph](#precedence-graph)
+	* [Servers](#servers)
+	* [Architectural Models](#architectural-models)
+		* [Client-Server](#client-server)
+		* [Proxy Server](#proxy-server)
+		* [Peer-To-Peer](#peer-to-peer)
+	* [Middleware](#middleware)
+	* [Request-Reply Protocol](#request-reply-protocol)
+		* [UDP](#udp)
+		* [TCP](#tcp)
+	* [REST API](#rest-api)
+		* [CRUD](#crud)
+	* [Express](#express)
+	* [GraphQL](#graphql)
+	* [GNU/Linux](#gnulinux)
+	* [Docker](#docker)
+	* [SSH](#ssh)
+* [➤ Contributors](#-contributors)
+* [➤ License](#-license)
 </details>
 
-## FAQ
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#faq)
+
+## ➤ FAQ
 
 ### What is Web Skills?
 
@@ -52,7 +442,10 @@ When a skill is described as experimental, it means that the technology is immat
 
 Reach out to me on Twitter at [@AndreasMehlsen](https://twitter.com/AndreasMehlsen) or take a look at [my website](https://andreasbm.github.io) if you want to learn more about what other projects I'm working on.
 
-## Fundamentals
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#fundamentals)
+
+## ➤ Fundamentals
 
 ### HTML
 
@@ -612,7 +1005,10 @@ Learn how to use the developer console to debug your code.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.youtube.com" alt="Logo" /> Youtube - 14 Must Know Chrome Dev Tools Tricks](https://www.youtube.com/watch?v=xkzDaKwinA8)
 
 
-## Accessibility
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#accessibility)
+
+## ➤ Accessibility
 
 ### The why
 
@@ -741,7 +1137,10 @@ Learn how to conduct an accessibility review to improve the overall experience o
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3.org" alt="Logo" /> How to Meet WCAG (Quick Reference)](https://www.w3.org/WAI/WCAG21/quickref/)
 
 
-## Web Components
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#web-components)
+
+## ➤ Web Components
 
 ### Custom Elements
 
@@ -826,7 +1225,10 @@ Learn how the Form Participation API proposal enables elements, other than built
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhtml.spec.whatwg.org" alt="Logo" /> W3C - Creating a form-associated custom element](https://html.spec.whatwg.org/multipage/custom-elements.html#custom-elements-face-example)
 
 
-## Progressive Webapps
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#progressive-webapps)
+
+## ➤ Progressive Webapps
 
 ### API's
 
@@ -1304,7 +1706,10 @@ Learn about the Chrome DevTools and how it can be used to audit your web app.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcalibreapp.com" alt="Logo" /> Investigate animation performance with DevTools](https://calibreapp.com/blog/investigate-animation-performance-with-devtools/)
 
 
-## Build tools
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#build-tools)
+
+## ➤ Build tools
 
 ### Package Managers
 
@@ -1466,7 +1871,10 @@ Learn how to use Node.js.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> W3Schools - Node.js tutorial](https://www.w3schools.com/nodejs/)
 
 
-## Frameworks & Libraries
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#frameworks--libraries)
+
+## ➤ Frameworks & Libraries
 
 ### lit-element
 
@@ -1518,7 +1926,10 @@ Learn how Stencil can be used for generating small, fast web components.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fcodeburst.io" alt="Logo" /> How to Build Reusable Web Components Using Stenciljs](https://codeburst.io/how-to-build-web-components-using-stenciljs-afacc5451c2d)
 
 
-## Testing
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#testing)
+
+## ➤ Testing
 
 ### Testing Methodologies
 
@@ -1684,7 +2095,10 @@ Learn about the best practices when it comes to testing.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.qasymphony.com" alt="Logo" /> 7 Software Testing Best Practices](https://www.qasymphony.com/blog/7-software-testing-best-practices/)
 
 
-## Architecture & paradigms
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#architecture--paradigms)
+
+## ➤ Architecture & paradigms
 
 ### Paradigms
 
@@ -1864,7 +2278,10 @@ Learn about the OOCSS methodology and when it should be used.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.keycdn.com" alt="Logo" /> The Future of Writing CSS](https://www.keycdn.com/blog/oocss)
 
 
-## Team Collaboration
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#team-collaboration)
+
+## ➤ Team Collaboration
 
 ### Version Control
 
@@ -1940,7 +2357,10 @@ Learn about test driven development and when to use it.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdev.to" alt="Logo" /> dev.to - Test-driven development in JavaScript](https://dev.to/tomekbuszewski/test-driven-development-in-javascript-olg)
 
 
-## Design & UX
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#design--ux)
+
+## ➤ Design & UX
 
 ### Color Theory
 
@@ -2174,7 +2594,10 @@ Learn about some of the best practices when designing.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.3pillarglobal.com" alt="Logo" /> Dieter Ram' 10 principles for good design](https://www.3pillarglobal.com/insights/dieter-rams-10-principles-good-design)
 
 
-## The Modern Web
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#the-modern-web)
+
+## ➤ The Modern Web
 
 ### Streams
 
@@ -2610,7 +3033,10 @@ Learn how the Network Information API proposal can give you information about th
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwhatwebcando.today" alt="Logo" /> What Web Can Do Today - Network Type & Speed](https://whatwebcando.today/network-type-speed.html)
 
 
-## Algorithms & Data structures
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#algorithms--data-structures)
+
+## ➤ Algorithms & Data structures
 
 ### Data structures
 
@@ -2895,7 +3321,10 @@ Learn about hashing algorithms.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fgist.github.com" alt="Logo" /> Github - hash.js](https://gist.github.com/iperelivskiy/4110988)
 
 
-## Databases & Servers
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#databases--servers)
+
+## ➤ Databases & Servers
 
 ### Databases
 
@@ -3271,5 +3700,20 @@ Learn how to use SSH and learn how to connect to a device using an SSH client.
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.geeksforgeeks.org" alt="Logo" /> SSH command in Linux with Examples](https://www.geeksforgeeks.org/ssh-command-in-linux-with-examples/)
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fhelp.ubnt.com" alt="Logo" /> How to Establish a Connection Using SSH](https://help.ubnt.com/hc/en-us/articles/218850057-Intro-to-Networking-How-to-Establish-a-Connection-Using-SSH)
 
-{{ template:contributors }}
-{{ template:license }}
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#contributors)
+
+## ➤ Contributors
+	
+
+| [<img alt="Andreas Mehlsen" src="https://avatars1.githubusercontent.com/u/6267397?s=460&v=4" width="100">](https://twitter.com/andreasmehlsen) | [<img alt="You?" src="https://joeschmoe.io/api/v1/random" width="100">](https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md) |
+|:--------------------------------------------------:|:--------------------------------------------------:|
+| [Andreas Mehlsen](https://twitter.com/andreasmehlsen) | [You?](https://github.com/andreasbm/readme/blob/master/CONTRIBUTING.md) |
+| 🔥                                               |                                                  |
+
+
+[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#license)
+
+## ➤ License
+	
+Licensed under [MIT](https://opensource.org/licenses/MIT).

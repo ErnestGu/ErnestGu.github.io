@@ -1,27 +1,11 @@
 <h1 align="center">Ernest's Skill Tree</h1>
 <p align="center">
-	Ernest is currently working as Assosiate Regional Marketing Manager at <a href="https://www.beckmancoulter.com/">Beckman Coulter</a>, a member of <a href="https://www.danaher.com/">Danaher Group</a>, where He work on innovative MKT activities and strategic project execution. He got Master's degree under the joint training of <a href="https://www.med.tsinghua.edu.cn/">School of Medicine</a>, and <a href="https://www.cs.tsinghua.edu.cn/">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He did my Bachelor at  <a href="https://mse.bit.edu.cn/index.htm">School of Material Science and Engineering</a>, <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a></a>
+	Ernest is currently working as Assosiate Regional Marketing Manager at <a href="https://www.beckmancoulter.com/">Beckman Coulter</a>, a member of <a href="https://www.danaher.com/">Danaher Group</a>, where He work on innovative MKT activities and strategic project execution. He got Master's degree under the joint training of <a href="https://www.med.tsinghua.edu.cn/">School of Medicine</a>, and <a href="https://www.cs.tsinghua.edu.cn/">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He did Bachelor at  <a href="https://mse.bit.edu.cn/index.htm">School of Material Science and Engineering</a>, <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a></a>
 </p> 
 
-<br />
-<details>
-<summary>📖 Table of Contents</summary>
-<br />
 
-[![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 
-## ➤ Table of Contents
 
-* [➤ FAQ](#-faq)
-	* [What is Web Skills?](#what-is-web-skills)
-	* [How did you choose the skills?](#how-did-you-choose-the-skills)
-	* [How can I support you?](#how-can-i-support-you)
-	* [How can I get involved?](#how-can-i-get-involved)
-	* [How can I keep track of what skills I know?](#how-can-i-keep-track-of-what-skills-i-know)
-	* [I am overwhelmed! Help me!](#i-am-overwhelmed-help-me)
-	* [Why haven't you included XYZ Technology?](#why-havent-you-included-xyz-technology)
-	* [What does the "experimental" banner mean?](#what-does-the-experimental-banner-mean)
-	* [How can I get in contact with you?](#how-can-i-get-in-contact-with-you)
 * [➤ Fundamentals](#-fundamentals)
 	* [HTML](#html)
 	* [Syntax](#syntax)

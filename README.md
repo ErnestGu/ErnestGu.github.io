@@ -3,11 +3,6 @@
 	Ernest is currently working as Assosiate Regional Marketing Manager at <a href="https://www.beckmancoulter.com/">Beckman Coulter</a>, a member of <a href="https://www.danaher.com/">Danaher Group</a>, where He work on innovative MKT activities and strategic project execution. He got Master's degree under the joint training of <a href="https://www.med.tsinghua.edu.cn/">School of Medicine</a>, and <a href="https://www.cs.tsinghua.edu.cn/">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He did my Bachelor at  <a href="https://mse.bit.edu.cn/index.htm">School of Material Science and Engineering</a>, <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a></a>
 </p> 
 
-<p align="center">
-	<a href="http://andreasbm.github.io/web-skills" target="_blank">
-		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Web Skills Demo" width="800" />
-	</a>
-</p>
 <br />
 <details>
 <summary>📖 Table of Contents</summary>

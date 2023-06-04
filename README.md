@@ -2,12 +2,7 @@
 <p align="center">
 	Ernest is currently working as Assosiate Regional Marketing Manager at <a href="https://www.beckmancoulter.com/">Beckman Coulter</a>, a member of <a href="https://www.danaher.com/">Danaher Group</a>, where He work on innovative MKT activities and strategic project execution. He got Master's degree under the joint training of <a href="https://www.med.tsinghua.edu.cn/">School of Medicine</a>, and <a href="https://www.cs.tsinghua.edu.cn/">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He did my Bachelor at  <a href="https://mse.bit.edu.cn/index.htm">School of Material Science and Engineering</a>, <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a></a>
 </p> 
-        <p class="w3-center">
-          <a href="mailto:18810406098@163.com">Email</a> &nbsp/&nbsp
-          <a href="https://scholar.google.com/citations?hl=zh-CN&tzom=-480&user=LHHozkAAAAAJ&view_op=list_works&gmla=AJsN-F4FzDnat0KPit0R9bYRx6iEjiNqk8UhiP0sKyBKVWzg1FNYcmbXZ_6VkDsYW709qwAer04bYfsMXzHIsJlfvZtaUBjfYz6JlbDVAvGoqTJ8R8BeUqc"> Google Scholar </a> &nbsp/&nbsp 
-          <a href="https://www.linkedin.cn/incareer/in/ACoAAB1fPfoB4OurYlHXCZu0x7KBC5NJzogTNaY"> LinkedIn </a> 
-          
-        </p>
+
 <p align="center">
 	<a href="http://andreasbm.github.io/web-skills" target="_blank">
 		<img src="https://raw.githubusercontent.com/andreasbm/web-skills/master/demo.gif" alt="Web Skills Demo" width="800" />

@@ -12,7 +12,11 @@
 
 Deep learning algorithms to analyze medical image data for diagnosis and making more accurate clinical decision.
 
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Deep learning image segmentation](https://www.frontiersin.org/articles/10.3389/fphys.2023.1092352/full)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Deep learning image segmentation](https://www.frontiersin.org/articles/10.3389/fphys.2023.1092352/full
+        
+        
+        
+        )
 
 
 #### Natural Language Processing (NLP)
@@ -42,7 +46,11 @@ AIE Mechanisms and Applications.
 
 #### Intelligent Materials
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> Thermal mapping](https://pubs.rsc.org/en/content/articlelanding/2014/SC/C4SC01611D)
-* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Mechanochromic Behavior](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.201403132)
+* [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Mechanochromic Behavior](https://chemistry-europe.onlinelibrary.wiley.com/doi/10.1002/chem.201403132
+        
+        
+        
+        )
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fwww.w3schools.com" alt="Logo" /> TPE-based self-assembled film](https://link.springer.com/article/10.1007/s11434-013-5943-7/#citeas)
 
 
@@ -69,4 +77,4 @@ Diseases treatment in Oncology and Metabolism.
 	
 Licensed under [MIT](https://opensource.org/licenses/MIT).
 
-![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)
+My ![Visitor Count](https://profile-counter.glitch.me/ErnestGu/count.svg) Visitor

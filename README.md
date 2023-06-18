@@ -68,3 +68,5 @@ Diseases treatment in Oncology and Metabolism.
 ## ➤ License
 	
 Licensed under [MIT](https://opensource.org/licenses/MIT).
+
+![Visitor Count](https://profile-counter.glitch.me/Christmas/count.svg)

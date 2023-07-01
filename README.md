@@ -1,6 +1,6 @@
 <h1 align="center">Ernest's Skills Tree</h1>
 <p align="center">
-	Ernest is currently working as Assosiate Regional Marketing Manager at <a href="https://www.beckmancoulter.com/">Beckman Coulter</a>, a member of <a href="https://www.danaher.com/">Danaher Group</a>, where He work on innovative MKT activities and strategic project execution. He got Master's degree under the joint training of <a href="https://www.med.tsinghua.edu.cn/">School of Medicine</a>, and <a href="https://www.cs.tsinghua.edu.cn/">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He did Bachelor at  <a href="https://mse.bit.edu.cn/index.htm">School of Material Science and Engineering</a>, <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a>
+	Ernest is currently working as Associate Regional Marketing Manager at <a href="https://www.beckmancoulter.com/">Beckman Coulter</a>, a member of <a href="https://www.danaher.com/">Danaher Group</a>, where He work on innovative MKT activities and strategic project execution. He got Master's degree under the joint training of <a href="https://www.med.tsinghua.edu.cn/">School of Medicine</a>, and <a href="https://www.cs.tsinghua.edu.cn/">Department of Computer Science and Technology</a>, <a href="https://www.tsinghua.edu.cn/">Tsinghua University</a>. He did Bachelor at  <a href="https://mse.bit.edu.cn/index.htm">School of Material Science and Engineering</a>, <a href="https://www.bit.edu.cn/">Beijing Institute of Technology</a>
 </p> 
 
 
@@ -13,6 +13,12 @@
 Deep learning algorithms to analyze medical image data for diagnosis and making more accurate clinical decision.
 
 * [ ] [<img style="margin-bottom: 0;" src="https://plus.google.com/_/favicon?domain_url=https%3A%2F%2Fdeveloper.mozilla.org" alt="Logo" /> Deep learning image segmentation](https://www.frontiersin.org/articles/10.3389/fphys.2023.1092352/full
+        
+        
+        
+        
+        
+        
         
         
         
